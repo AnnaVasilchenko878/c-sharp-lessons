@@ -1,0 +1,15 @@
+D:\Anna\lessons\geek_brains\с\lesson_1\bin\Debug\net6.0\lesson_1.exe
+D:\Anna\lessons\geek_brains\с\lesson_1\bin\Debug\net6.0\lesson_1.deps.json
+D:\Anna\lessons\geek_brains\с\lesson_1\bin\Debug\net6.0\lesson_1.runtimeconfig.json
+D:\Anna\lessons\geek_brains\с\lesson_1\bin\Debug\net6.0\lesson_1.dll
+D:\Anna\lessons\geek_brains\с\lesson_1\bin\Debug\net6.0\lesson_1.pdb
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\lesson_1.csproj.AssemblyReference.cache
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\lesson_1.AssemblyInfoInputs.cache
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\lesson_1.AssemblyInfo.cs
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\lesson_1.csproj.CoreCompileInputs.cache
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\lesson_1.dll
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\refint\lesson_1.dll
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\lesson_1.pdb
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\lesson_1.genruntimeconfig.cache
+D:\Anna\lessons\geek_brains\с\lesson_1\obj\Debug\net6.0\ref\lesson_1.dll
